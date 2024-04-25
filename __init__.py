@@ -1,6 +1,6 @@
 from ase import Atom, Atoms
 from numpy import array, dot, transpose
-from string import split
+# from string import split
 
 def str2atoms(file='str.out'):
     '''
